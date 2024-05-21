@@ -20,21 +20,21 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Éste programa digital es para ti si: <br className="sm:block hidden" />
+        Éste programa digital es para ti si <br className="sm:block hidden" />
       </h2>
       <p className={`font-poppins font-normal text-white text-[18px] leading-[30.8px] max-w-[470px] mt-5`}>
       <div className="flex gap-3 ">
           
         <span className="text-xl text-yellow-500">1</span>
-          <span >¿Tienes una baja autoestima, poca confianza y esto es una barrera para ligar con las mujeres?</span>
+          <span >¿Tienes una baja autoestima y poca confianza para ligar con las mujeres?</span>
       </div><br />
         <div className="flex gap-3 ">
         <span className="text-xl text-yellow-500">2</span>
-          <span >¿Te quedas sin palabras cuando hablas con una mujer linda o te quedas mudo con la que te gusta?</span>
+          <span >¿Te quedas sin palabras cuando hablas con una mujer linda?</span>
         </div><br />
         <div className="flex gap-3 ">
         <span className="text-xl text-yellow-500">3</span>
-          <span >¿Eres introvertido con las chicas y estás cansado de dejar pasar oportunidades amorosas en tu vida?</span>
+          <span >¿Eres introvertido con las chicas y estás cansado de dejar pasar oportunidades?</span>
         </div><br />
         <div className="flex gap-3 ">
         <span className="text-xl text-yellow-500">4</span>

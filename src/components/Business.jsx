@@ -1,6 +1,7 @@
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import { ButtonComenzar } from "./ButtonComenzar";
+import { ButtonWp } from "./ButtonWp";
 
 
 const FeatureCard = ({ icon, title, content, index }) => (
@@ -54,7 +55,8 @@ const Business = () =>  (
        
       </p>
 
-      <ButtonComenzar styles={`mt-10`} />
+      <ButtonWp />
+      {/* <ButtonComenzar styles={`mt-10`} /> */}
      
     </div>
 

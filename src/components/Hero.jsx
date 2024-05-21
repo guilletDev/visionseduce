@@ -30,11 +30,11 @@ const Hero = () => {
         una <strong className="text-white">ATRACCIÓN</strong>  genuina desde el primer encuentro.
         </p>
 
-        <div className="mt-8 flex gap-6">
+        <div className="mt-8 flex gap-6 ">
           <div className="mt-5" >
             <ButtonComenzar />
          </div>
-        {/*  <div >
+        {/*  <div  >
           <ButtonWp /> 
         </div> */}
         </div>
